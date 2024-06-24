@@ -9,10 +9,12 @@ import Mathlib.Algebra.Group.Pi.Basic
 import Mathlib.Algebra.Group.Commute.Basic
 import Mathlib.Algebra.GroupPower.Basic
 import Mathlib.Algebra.GroupPower.Identities
+import Mathlib.Algebra.Order.Field.Basic
 import Mathlib.Algebra.Order.Floor
 import Mathlib.Algebra.QuadraticDiscriminant
 import Mathlib.Algebra.Ring.Basic
 import Mathlib.Analysis.Asymptotics.AsymptoticEquivalent
+import Mathlib.Analysis.MeanInequalities
 import Mathlib.Analysis.NormedSpace.Basic
 import Mathlib.Analysis.SpecialFunctions.Log.Basic
 import Mathlib.Analysis.SpecialFunctions.Log.Base
@@ -68,4 +70,3 @@ import Mathlib.Data.ZMod.Defs
 import Mathlib.Tactic
 import Mathlib.Util.Delaborators
 import Mathlib.Data.Real.Irrational
-
